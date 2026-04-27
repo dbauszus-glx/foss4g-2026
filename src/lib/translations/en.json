@@ -1,5 +1,5 @@
 {
-  "title": "FOSS4G 2026 Hiroshima",
+  "title": "FOSS4G 2027 Bristol",
   "images": {
     "hiroshima": {
       "alt": "Hiroshima Image",
@@ -203,7 +203,7 @@
     "coming_soon_message": "Keynote speakers will be announced in Spring 2026",
     "program": {
       "title": "Keynote Program",
-      "description": "FOSS4G 2026 Hiroshima will feature three inspiring keynote presentations from world-renowned experts in geospatial technology, open-source development, and humanitarian applications."
+      "description": "FOSS4G 2027 Bristol will feature three inspiring keynote presentations from world-renowned experts in geospatial technology, open-source development, and humanitarian applications."
     },
     "schedule": {
       "day1": {
@@ -250,7 +250,7 @@
     },
     "overview": {
       "title": "Presentation Overview",
-      "description": "FOSS4G 2026 Hiroshima will feature a wide range of presentations covering the latest trends in geospatial technology to practical application cases."
+      "description": "FOSS4G 2027 Bristol will feature a wide range of presentations covering the latest trends in geospatial technology to practical application cases."
     },
     "session_types": {
       "title": "Session Types",
@@ -329,7 +329,7 @@
     },
     "overview": {
       "title": "Event Overview",
-      "description": "FOSS4G 2026 Hiroshima will feature various events to foster networking and interaction among participants, in addition to technical sessions."
+      "description": "FOSS4G 2027 Bristol will feature various events to foster networking and interaction among participants, in addition to technical sessions."
     },
     "social_events": {
       "title": "Social Events",
@@ -346,7 +346,7 @@
     },
     "overview": {
       "title": "Workshop Overview",
-      "description": "FOSS4G 2026 Hiroshima will host practical hands-on workshops over two days, August 30 and 31."
+      "description": "FOSS4G 2027 Bristol will host practical hands-on workshops over two days, August 30 and 31."
     },
     "schedule": {
       "title": "Schedule",
@@ -497,7 +497,7 @@
         "community": "Nearly 1,000 people participate in FOSS4G each year, and this community continues to grow. Whether you are a geospatial information professional or attending for the first time, as long as you have an \"open mind,\" FOSS4G is your place."
       },
       "closing_section": {
-        "title": "See You at FOSS4G 2026 Hiroshima!",
+        "title": "See You at FOSS4G 2027 Bristol!",
         "content": "Let us create the future of free and open geospatial together. We look forward to welcoming you in Hiroshima."
       }
     },
@@ -540,7 +540,7 @@
       },
       "organizing_committee": {
         "title": "Organizing Committee",
-        "description_1": "The FOSS4G 2026 Hiroshima organizing committee consists of dedicated volunteers from the Japanese and international geospatial community. Our team brings together expertise in open source geospatial technologies, event management, and local knowledge of Hiroshima.",
+        "description_1": "The FOSS4G 2027 Bristol organizing committee consists of dedicated volunteers from the Japanese and international geospatial community. Our team brings together expertise in open source geospatial technologies, event management, and local knowledge of Hiroshima.",
         "description_2": "Detailed information about all organizing committee members will be updated as the conference approaches."
       },
       "photo_placeholder": "Photo"
@@ -549,7 +549,7 @@
       "title": "Concept",
       "theme": {
         "title": "Bridging Geospatial Technology and Humanity",
-        "subtitle": "FOSS4G 2026 Hiroshima Conference Theme"
+        "subtitle": "FOSS4G 2027 Bristol Conference Theme"
       },
       "vision": {
         "title": "Our Vision",
@@ -574,7 +574,7 @@
       "title": "Code of Conduct",
       "commitment": {
         "title": "Our Commitment",
-        "content": "FOSS4G 2026 Hiroshima is committed to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, or technology choices."
+        "content": "FOSS4G 2027 Bristol is committed to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, or technology choices."
       },
       "expected_behavior": {
         "title": "Expected Behavior",
@@ -615,7 +615,7 @@
     },
     "privacy_policy": {
       "title": "Privacy Policy",
-      "intro": "This Privacy Policy describes how FOSS4G 2026 Hiroshima collects, uses, and protects your personal information.",
+      "intro": "This Privacy Policy describes how FOSS4G 2027 Bristol collects, uses, and protects your personal information.",
       "information_collect": {
         "title": "Information We Collect",
         "items": [
@@ -657,7 +657,7 @@
       "title": "Terms and Conditions for Registration",
       "registration_terms": {
         "title": "Registration Terms",
-        "intro": "By registering for FOSS4G 2026 Hiroshima, you agree to the following terms and conditions:"
+        "intro": "By registering for FOSS4G 2027 Bristol, you agree to the following terms and conditions:"
       },
       "payment_refunds": {
         "title": "Payment and Refunds",
@@ -685,7 +685,7 @@
       },
       "liability": {
         "title": "Liability",
-        "content": "FOSS4G 2026 Hiroshima organizers are not liable for any personal injury, loss, or damage to property that may occur during the conference. Attendees participate at their own risk."
+        "content": "FOSS4G 2027 Bristol organizers are not liable for any personal injury, loss, or damage to property that may occur during the conference. Attendees participate at their own risk."
       },
       "force_majeure": {
         "title": "Force Majeure",
@@ -698,7 +698,7 @@
     },
     "sponsors": {
       "title": "Sponsors",
-      "intro": "FOSS4G 2026 Hiroshima offers unique sponsorship opportunities to connect with the global geospatial community. Join us in supporting open-source geospatial technologies and humanitarian applications.",
+      "intro": "FOSS4G 2027 Bristol offers unique sponsorship opportunities to connect with the global geospatial community. Join us in supporting open-source geospatial technologies and humanitarian applications.",
       "diamond": {
         "title": "Diamond Sponsor",
         "price": "¥5,000,000",
@@ -815,7 +815,7 @@
       "description": "Details about student discounts and eligibility.",
       "special_rates": {
         "title": "Special Student Rates Available!",
-        "description": "FOSS4G 2026 Hiroshima offers significantly reduced registration fees for students to encourage participation from the next generation of geospatial professionals."
+        "description": "FOSS4G 2027 Bristol offers significantly reduced registration fees for students to encourage participation from the next generation of geospatial professionals."
       },
       "eligibility": {
         "title": "Eligibility Requirements",
@@ -865,10 +865,10 @@
     },
     "travel_grant": {
       "title": "Travel Grant Program",
-      "description": "Details about the FOSS4G 2026 Hiroshima Travel Grant Program (TGP).",
+      "description": "Details about the FOSS4G 2027 Bristol Travel Grant Program (TGP).",
       "supporting_participation": {
         "title": "Increasing Accessibility and Diversity",
-        "description": "The FOSS4G 2026 Hiroshima organizing committee is pleased to provide a Travel Grant Program to increase the chances of attendance and accessibility of this conference to community members, especially focusing on facilitating participation for minority groups and categories usually underrepresented."
+        "description": "The FOSS4G 2027 Bristol organizing committee is pleased to provide a Travel Grant Program to increase the chances of attendance and accessibility of this conference to community members, especially focusing on facilitating participation for minority groups and categories usually underrepresented."
       },
       "who_should_apply": {
         "title": "Who should apply",
@@ -897,7 +897,7 @@
         "title": "About the TGP",
         "description": "The FOSS4G Travel Grant Program initiative was established to facilitate accessibility and diversity at FOSS4G conferences. It is funded by OSGeo Foundation, proceeds from our generous sponsors, and contributions from organisations and individuals.",
         "funding_note": "Please note that the number of grants available is dependent on this funding and the number of applications we receive.",
-        "management": "The TGP is managed by the FOSS4G 2026 Hiroshima LOC Committee."
+        "management": "The TGP is managed by the FOSS4G 2027 Bristol LOC Committee."
       },
       "important_dates": {
         "title": "Important Dates",
@@ -923,7 +923,7 @@
     },
     "volunteering": {
       "title": "Volunteering",
-      "description": "Details about the FOSS4G 2026 Hiroshima volunteer program.",
+      "description": "Details about the FOSS4G 2027 Bristol volunteer program.",
       "join_team": {
         "title": "Join Our Volunteer Team!",
         "description": "We need help with some of the day-to-day running of the conference and we think you'll be perfect for the job. As a volunteer, we'd like you to support us during the conference period."
@@ -1059,7 +1059,7 @@
       "coming_soon_message": "Academic Track submissions will open in December 2025",
       "overview": {
         "title": "Academic Track Overview",
-        "description": "The Academic Track at FOSS4G 2026 Hiroshima provides a platform for researchers to present peer-reviewed scientific contributions to the open-source geospatial community. We welcome high-quality research papers that advance the state of knowledge in geospatial science and technology."
+        "description": "The Academic Track at FOSS4G 2027 Bristol provides a platform for researchers to present peer-reviewed scientific contributions to the open-source geospatial community. We welcome high-quality research papers that advance the state of knowledge in geospatial science and technology."
       }
     },
     "workshop_proposals": {
@@ -1068,7 +1068,7 @@
       "coming_soon_message": "Workshop proposals will open in January 2026",
       "overview": {
         "title": "Workshop Overview",
-        "description": "FOSS4G 2026 Hiroshima workshops provide hands-on learning experiences with open-source geospatial tools and technologies. We invite proposals for half-day and full-day workshops that offer practical, interactive sessions for conference attendees."
+        "description": "FOSS4G 2027 Bristol workshops provide hands-on learning experiences with open-source geospatial tools and technologies. We invite proposals for half-day and full-day workshops that offer practical, interactive sessions for conference attendees."
       }
     },
     "code_sprint": {
